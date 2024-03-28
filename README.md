@@ -37,3 +37,4 @@ This app is for educational purposes only.
 
  
 # WeatherWise-Public
+# Weather-Wise-Public

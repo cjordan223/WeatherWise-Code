@@ -1,0 +1,52 @@
+footer {
+  margin-top: 70px;
+}
+
+#location {
+  margin-top: 60px;
+}
+
+
+body {
+  background-image: url("https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg?cs=srgb&dl=pexels-pixabay-459451.jpg&fm=jpg");
+  background-size: cover;
+}
+
+
+h1 {
+  color: aliceblue;
+  font-family: 'Comfortaa', sans-serif;
+
+}
+
+footer {
+  color: aliceblue;
+  justify-content: right;
+}
+
+.card{
+
+    height: 280px !important;
+
+
+}
+
+#submit {
+  margin-top: 15px;
+}
+
+#location {
+  background-color: gray;
+}
+
+#openingContainer {
+  margin-left: 20px;
+  margin-top: 180px;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Add this line if you also want vertical centering */
+  min-height: 100vh; /* Use this for full-height centering, adjust as needed */
+}

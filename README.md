@@ -36,3 +36,4 @@ Feel free to fork this repository and contribute by submitting a pull request.
 This app is for educational purposes only.  
 
  
+# WeatherWise-Public

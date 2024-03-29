@@ -14,13 +14,13 @@ This lightweight and easy-to-navigate web app allows users to search for current
 
 ## How It Works
 
-The app fetches real-time weather data from WeatherAPI.com and dynamically updates the web page with the current weather and the forecast for the coming week.
+The app fetches real-time weather data from WeatherAPI.com and dynamically updates the web page with the current weather and the forecast for the coming week. This Repo only contains the code needed for the app to run, you will need to get your free API key from weatherapi.com and use it in the script.js file. 
 
-## Login Information
 
 For demonstration purposes, you can log in using the following credentials:
 - **Username**: admin
 - **Password**: 1234
+- [Live Demo Here.](https://cjordan223.github.io/WeatherWise/)
 
 ## Development
 
@@ -35,6 +35,3 @@ Feel free to fork this repository and contribute by submitting a pull request.
 
 This app is for educational purposes only.  
 
- 
-# WeatherWise-Public
-# Weather-Wise-Public

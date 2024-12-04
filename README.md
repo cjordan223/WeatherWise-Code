@@ -2,7 +2,7 @@
 
 This lightweight and easy-to-navigate web app allows users to search for current weather data and a 3-day forecast based on their location input.
 
-![image](https://github.com/cjordan223/WeatherWise/assets/126746175/9188cf97-e039-4656-8a7a-7eb9813326fa)
+![image](https://github.com/cjordan223/React-Portfolio/blob/main/public/img/weatherwise.png?raw=true)
 
 
 ## Features
